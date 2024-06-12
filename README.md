@@ -5,7 +5,9 @@ The main script will generate a memory directory including a json for the telegr
  
 ## TODO  
 
-- [ ] Bash run/install script
+- [ ] BAT run/install script for Windnows?
+- [ ] properly modulize credentials
+- [x] Bash run/install script
 
 ## Object Detection on Telegram 
 
